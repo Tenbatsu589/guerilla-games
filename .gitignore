@@ -1,0 +1,7 @@
+### Output and Cache Directories ###
+/bin/BoggleTest
+/bin/BoggleTest.exe
+/bin/BoggleTest.pdb
+/build/
+/build_linux/
+
