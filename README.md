@@ -1,7 +1,7 @@
 # Boggle Sample
 
 #### Omar Gonzalez
-Hi! My name is Omar Gonzalez and I am applying for the open position of Network Engineer listed here: https://www.guerrilla-games.com/join/network-engineer
+Hi! My name is Omar Gonzalez and I am applying for the open position of Senior Gameplay Engineer listed here: https://www.guerrilla-games.com/join/senior-game-programmer-1
 This is the git repo of a my code sample. It is a simple solver for a game called Boggle(https://en.wikipedia.org/wiki/Boggle).
 
 
